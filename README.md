@@ -1,7 +1,7 @@
 # React + TypeScript 
 
 React + TypeScript: Crear aplicación de React con Typescript.
-Deploy - https://react-type-script-rho.vercel.app/
+Deploy: https://react-type-script-rho.vercel.app/
 
 ## Contador
 
